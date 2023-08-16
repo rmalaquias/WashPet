@@ -139,5 +139,6 @@ REST_FRAMEWORK = {
       'PAGE_SIZE': 20
 }
 
-#CSRF_TRUSTED_ORIGINS = [web-production-2cf5.up.railway.app
+CSRF_TRUSTED_ORIGINS = [
+    web-production-2cf5.up.railway.app
 ]
